@@ -1,0 +1,9 @@
+Follow the following instructions:
+
+1) Create account at https://www.bugsense.com
+
+2) After login create a new project and get API Key 
+
+3) Assign api key value to the $apikey variable in exceptionlogger.php
+
+4) Hit example1.php and see exception results at bugsense.com
